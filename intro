@@ -20,3 +20,10 @@ There, you can look at the words in a title and find the most published games wi
 
 This is important and can be a gateway about thinking about information.
 
+[FILES]
+
+1. all_snes_titles.sql (SQL Table)
+2. SNES Games.csv (Game data to import into PostgresSQL)
+3. basic_sql_questions_for_data.sql (example questions to ask the data)
+4. Example Graphics - Sheet1.pdf (Chart one of the queries to look presentable using google sheets)
+5. capstoneSQL.sql (File used to further explorer game title names)
