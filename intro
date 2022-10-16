@@ -13,3 +13,10 @@ The database I used was Postgres 15 w/ PG Admin.
 This is to give educators or people interested in stimulating their thinking ideas.
 
 This can be combined with work on using spreadsheets to generate graphs for quantiative reasoning exercises.
+
+There is a capstoneSQL file. This file lets you take a peak into a couple of advanced functions in PostgresSQL that is used to parse string text.
+
+There, you can look at the words in a title and find the most published games with a particular word in the title.
+
+This is important and can be a gateway about thinking about information.
+
