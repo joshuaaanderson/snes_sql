@@ -1,7 +1,7 @@
 # snes_sql
 SNES_SQL is a list of SNES game titles found on Reddit turned into a basic SQL and data lesson designed to help explorer future data-related scenarios.
 
-[INTRO]
+# [INTRO]
 
 I was browsing Reddit one evening and found a post for SNES data.
 
@@ -24,7 +24,7 @@ There, you can look at the words in a title and find the most published games wi
 
 This is important and can be a gateway about thinking about information.
 
-[FILES]
+# [FILES]
 
 1. all_snes_titles.sql (SQL Table)
 2. SNES Games.csv (Game data to import into PostgresSQL)
@@ -32,6 +32,6 @@ This is important and can be a gateway about thinking about information.
 4. Example Graphics - Sheet1.pdf (Chart one of the queries to look presentable using google sheets)
 5. capstoneSQL.sql (File used to further explorer game title names)
 
-[SUGGESTIONS]
+# [SUGGESTIONS]
 
 1. Students could create their fake office data and sales data (tables) to generate information to explorer left joins, right joins, and unions.
