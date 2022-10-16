@@ -1,5 +1,7 @@
 
 
+
+
 I was browsing Reddit one evening and found a post for SNES data.
 
 I figured this would be a good piece of data to explore basic SQL and data.
@@ -10,3 +12,5 @@ The idea behind this exercise is it stimulates research by researching top lists
 It can encourage you to look at the history of game consoles and see the state of gaming today. Which games are popular? 
 
 The database I used was Postgres 15 w/ PG Admin.
+
+This is to give educators or people interested in stimulating their thinking ideas.
