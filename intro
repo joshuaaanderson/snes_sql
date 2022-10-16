@@ -27,3 +27,6 @@ This is important and can be a gateway about thinking about information.
 3. basic_sql_questions_for_data.sql (example questions to ask the data)
 4. Example Graphics - Sheet1.pdf (Chart one of the queries to look presentable using google sheets)
 5. capstoneSQL.sql (File used to further explorer game title names)
+
+[SUGGESTIONS]
+1. Students could create their fake office data and sales data (tables) to generate information to explorer left joins, right joins, and unions.
